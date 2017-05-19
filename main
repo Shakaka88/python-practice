@@ -1,4 +1,5 @@
 def main(msg):
 	//Conflicting comment to test merge conflict
+	//Prints a message
     print(msg)
 main("Hello world!")
